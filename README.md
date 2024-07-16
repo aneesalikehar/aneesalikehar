@@ -1,5 +1,11 @@
-<p align="left"> <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="100px" height="100px" alt="anees" /> </p>
-<h1 align="center">Hi 👋, I'm Anees Ali</h1>
+  <div style="display:flex;">
+            <div>
+                <p align="left"> <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="300px" height="300px" alt="anees" /> </p>
+            </div>
+            <div>
+                <h1 align="center">Hi 👋, I'm Anees Ali</h1>
+            </div>
+        </div>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anees&label=Profile%20views&color=0e75b6&style=flat" alt="anees" /> </p>
