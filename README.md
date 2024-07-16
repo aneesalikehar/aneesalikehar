@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" alt="anees" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="100px" height="100px" alt="anees" /> </p>
 <h1 align="center">Hi 👋, I'm Anees Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
