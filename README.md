@@ -1,6 +1,6 @@
   <div style="display:flex;">
             <div>
-                <p align="left"> <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="300px" height="300px" alt="anees" /> </p>
+                <p align="left"> <img src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="500px" height="300px" alt="anees" /> </p>
             </div>
             <div>
                 <h1 align="center">Hi 👋, I'm Anees Ali</h1>
